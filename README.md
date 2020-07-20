@@ -1,1 +1,1 @@
-# go-fullstack
+A simple app to create, add, delete recipe. 
